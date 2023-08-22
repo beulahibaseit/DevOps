@@ -1,0 +1,13 @@
+This is first feature of our application
+<<<<<<< HEAD
+
+This is a faulty code
+
+There is a bug fix in the code
+<<<<<<< HEAD
+
+This is bug in all the code
+=======
+>>>>>>> parent of 923ce82 (Added new feature 2 to VERSION1.txt)
+=======
+>>>>>>> parent of 9ffdf57 (Added a new feature 4 in VERSION1.txt)
