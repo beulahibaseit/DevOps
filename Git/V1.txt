@@ -1,1 +1,7 @@
-This is the bug fix in development branch (Prosper in all things and be in health, just as your soul prospers)
+This is the bug fix in development branch
+
+After bug fixing, this is the new feature with minor alteration
+
+This is the advancement of previous feature
+
+Feature 2 is completed and ready for release
