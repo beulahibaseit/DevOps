@@ -1,0 +1,13 @@
+This is the first feature of our application
+<<<<<<< HEAD
+
+This is the bug fix in development branch
+
+This is a faulty code
+<<<<<<< HEAD
+
+There is faulty in everything from now
+=======
+>>>>>>> parent of c916685 (Added feature2 in development branch)
+=======
+>>>>>>> parent of 190fb4b (Added feature4 in development branch)
